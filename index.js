@@ -20,6 +20,6 @@ function sayHiToGrandma(string) {
   }
 }
 
-sayHiToGrandma('WASSUP');
-sayHiToGrandma('hello');
-sayHiToGrandma('I love you, Grandma.');
+console.log(sayHiToGrandma('WASSUP'));
+console.log(sayHiToGrandma('hello'));
+console.log(sayHiToGrandma('I love you, Grandma.'));
