@@ -19,3 +19,7 @@ function sayHiToGrandma(string) {
     return "I love you, too."
   }
 }
+
+sayHiToGrandma('WASSUP');
+sayHiToGrandma('hello');
+sayHiToGrandma('I love you, Grandma.');
